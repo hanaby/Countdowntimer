@@ -1,8 +1,9 @@
 body{
   margin: 0;
+  background-color:#333;
 }
 p{
-    background-color: #fff;
+    background-color: darksalmon;
     display: inline-flex;
     align-items: center;
     justify-content: center;
